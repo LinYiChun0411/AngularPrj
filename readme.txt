@@ -1,0 +1,1 @@
+Click Table Row to Trigger a Checkbox Click
